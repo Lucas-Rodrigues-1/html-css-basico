@@ -1,11 +1,12 @@
-.padrao {
-    background-color:#F5F5F5 ;
+.separar-paragrafo {
     margin: 40px;
     padding: 20px;
 }
 
+.padrao {
+    background-color:#F5F5F5 ;
+}
+
 .destacado {
      background-color: #F0CCE2 ;
-     margin: 40px;
-     padding: 20px;
 }
